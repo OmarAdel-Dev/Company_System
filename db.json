@@ -22,23 +22,13 @@
     },
     {
       "id": 3,
-      "firstName": "Rorooo",
-      "lastName": "adel",
+      "firstName": "Casya",
+      "lastName": "Cubitt",
       "email": "ccubitt2@economist.com",
       "gender": "female",
       "dateOfEmployment": "11/9/2019",
       "department": "Business Development",
       "departmentId": "3"
-    },
-    {
-      "id": 4,
-      "firstName": "Xena",
-      "lastName": "Tother",
-      "email": "xtother3@google.ru",
-      "gender": "female",
-      "dateOfEmployment": "30/8/2019",
-      "department": "Marketing",
-      "departmentId": "2"
     },
     {
       "id": 5,
@@ -71,38 +61,10 @@
   "users": [
     {
       "email": "omaradel97@outlook.com",
-      "password": "$2a$10$v1BKKwv1ngMMvRCE75qqhuXP7PdiyX12Z8fcz9Gk8/OxeZRlC0rzC",
-      "firstName": "omar",
-      "lastName": "omar",
+      "password": "$2a$10$C.HQFTvWawlEHQjbvzrgKO74eTlw9YMpUjg74YhHzd3v/ro5tz6hm",
+      "firstName": "OMar",
+      "lastName": "Adel",
       "id": 1
-    },
-    {
-      "email": "omar@o3enzyme.com",
-      "password": "$2a$10$RTLGkjciTTG.qA3vWAgbwOq81BKj8QlOioYnRP9QY1qs3D/W2wppe",
-      "firstName": "Omar",
-      "lastName": "Adel",
-      "id": 2
-    },
-    {
-      "email": "omaradel32178@gmail.com",
-      "password": "$2a$10$rMUZY7CNUEZJuA4CeOleauLoucLJq3.1iAmDGW5Pf8eRys/t3/eK2",
-      "firstName": "Omar",
-      "lastName": "Adel",
-      "id": 3
-    },
-    {
-      "email": "omar@123.com",
-      "password": "$2a$10$TgJ73JVtDMSI6MktPgqviu9FI6rrVpQVZB0YZY3oDr66HrpIiGWWi",
-      "firstName": "omar",
-      "lastName": "adel",
-      "id": 4
-    },
-    {
-      "email": "omaradel3217@gmail.com",
-      "password": "$2a$10$Mc0c34ITHlpVpq9Kv45iIeWNBKkMPcyi7QKCxcLpkIgRObKvP4nf.",
-      "firstName": "omar",
-      "lastName": "omar",
-      "id": 5
     }
   ]
 }

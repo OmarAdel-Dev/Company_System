@@ -41,7 +41,7 @@ export default function AddEmployee({ department }) {
     //Add
     addEmployee(
       employee,
-      (employee.dateOfEmployment = new Date()),
+      (employee.dateOfEmployment = new Date().toLocaleString().split(',')[0]),
       (employee.department = DepartmentName),
       (employee.departmentId = DepartmentID)
     );
